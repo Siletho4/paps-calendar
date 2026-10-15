@@ -1,0 +1,9 @@
+{
+  "dart.flutterSdkPath": "C:\\src\\flutter",
+  "dart.env": {
+    "APPDATA": "C:\\New folder\\pasc_app\\.codex-appdata",
+    "LOCALAPPDATA": "C:\\New folder\\pasc_app\\.codex-localappdata",
+    "PUB_CACHE": "C:\\New folder\\pasc_app\\.pub-cache",
+    "PATH": "C:\\Users\\ASUS\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\git\\cmd;C:\\src\\flutter\\bin;C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\platform-tools;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\iCLS;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\iCLS;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\WiFi\\bin;C:\\Program Files\\Common Files\\Intel\\WirelessCommon;C:\\Program Files\\dotnet;C:\\Program Files\\Microsoft VS Code\\bin;D:\\Bits Class\\Java\\jdk-18.0.2\\bin;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn;C:\\Program Files\\Cloudflare\\Cloudflare WARP;C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\ProgramData\\chocolatey\\bin;C:\\Users\\ASUS\\.local\\bin;C:\\Users\\ASUS\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\ASUS\\.dotnet\\tools;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\ASUS\\.lmstudio\\bin;C:\\Users\\ASUS\\AppData\\Local\\Kingsoft\\WPS Office\\12.1.0.27458\\clitool"
+  }
+}

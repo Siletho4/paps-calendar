@@ -1,0 +1,48 @@
+name: pasc_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  http: ^1.1.0
+  table_calendar: ^3.1.0
+  url_launcher: ^6.2.0
+  html: ^0.15.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.3
+  flutter_native_splash: ^2.4.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/app_logo.png
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_logo.png"
+  adaptive_icon_background: "#1A5632"
+  adaptive_icon_foreground: "assets/app_logo.png"
+
+flutter_native_splash:
+  color: "#1A5632"
+  image: assets/app_logo.png
+  android: true
+  ios: true
+  android_12:
+    color: "#1A5632"
+    image: assets/app_logo.png
